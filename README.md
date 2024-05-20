@@ -1,1 +1,2 @@
-python H:\数字医疗大作业demo\MEDICAL-DEMO\examples\gallery\demo.py
+# Digital-medical-assistants
+Digital-medical-assistants for better Patient experience
